@@ -19,12 +19,14 @@ The goal is to demonstrate the creation of RESTful services following **layered 
 
 ## Project Structure
 
+```text
 src/main/java
-├── entities # JPA entities
-├── repositories # JpaRepository interfaces
-├── services # Business logic
-├── resources # REST controllers
-└── exceptions # Exception handling
+├── entities        # JPA entities
+├── repositories    # JpaRepository interfaces
+├── services        # Business logic
+├── resources       # REST controllers
+└── exceptions      # Exception handling
+````
 
 ## Features
 
